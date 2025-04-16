@@ -12,7 +12,7 @@ bindsym $super+p exec pavucontrol
 
 # autostart
 exec --no-startup-id feh --bg-scale ~/.config/wallpapers/wallpaper.png
-exec --no-startup-id ~/.config/polybar/simple/launch.sh --blocks
+exec --no-startup-id ~/.config/polybar2/simple/launch.sh --blocks
 exec --no-startup-id picom
 # start a terminal
 
